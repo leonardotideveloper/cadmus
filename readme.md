@@ -28,4 +28,4 @@ repetitivo</h3>
 
 <h3>4° Passo:</h3>
 
-> Tratar os dados capturados e fazer a escrita no Excel
+> Tratar os dados capturados e fazer a escrita no arquivo Excel
